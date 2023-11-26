@@ -33,4 +33,4 @@ By engaging my services, businesses can expect a tailored analysis that pinpoint
 ![Sevice Level](https://github.com/AhmedRabie01/Supply-Chain-Performance-Analysis/blob/main/Photo/2023-11-26%20(1).png?raw=true)
 
 #### Order Lines
-[Order Lines](https://github.com/AhmedRabie01/Supply-Chain-Performance-Analysis/blob/main/Photo/2023-11-26%20(2).png?raw=true)
+![Order Lines](https://github.com/AhmedRabie01/Supply-Chain-Performance-Analysis/blob/main/Photo/2023-11-26%20(2).png?raw=true)
