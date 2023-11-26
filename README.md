@@ -13,7 +13,7 @@ My objective with this project is to empower businesses to optimize their supply
 
 #### Data Utilized: I've leveraged datasets encompassing customer details, product information, date-related insights, target fulfillment metrics, and order-specific details.
 
-### Dashboard Metrics: The dashboard encapsulates essential metrics such as Total Order Lines, Line Fill Rate, Volume Fill Rate, Total Orders, On-Time Delivery %, In Full Delivery %, On-Time In Full %, alongside target averages for on-time delivery, in-full delivery, and OTIF.
+#### Dashboard Metrics: The dashboard encapsulates essential metrics such as Total Order Lines, Line Fill Rate, Volume Fill Rate, Total Orders, On-Time Delivery %, In Full Delivery %, On-Time In Full %, alongside target averages for on-time delivery, in-full delivery, and OTIF.
 
 
 ### Relevance:
