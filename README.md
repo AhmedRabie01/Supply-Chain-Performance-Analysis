@@ -33,7 +33,8 @@ This portfolio highlights my proficiency in interpreting and visualizing complex
 
 By engaging my services, businesses can expect a tailored analysis that pinpoints areas for improvement, identifies trends, and offers strategic recommendations to streamline supply chain operations, ultimately driving profitability and customer retention.
 
-### Dashboard 
+### Live Dashboard Link
+ https://app.powerbi.com/view?r=eyJrIjoiMDdhN2RmOWEtNzkxNy00M2JmLWI0ZjctMTVjZTY0NDdlZTRlIiwidCI6ImM5ZjRkOWY1LTQwNWMtNDU2My05MzZhLTI5ZDFhNDdmOTMxMiJ9
 
 #### Overview 
 ![Orders](https://github.com/AhmedRabie01/Supply-Chain-Performance-Analysis/blob/main/Photo/2023-11-26.png?raw=true)
